@@ -15,5 +15,7 @@ unprinted_designs = ['iphone case', 'robot pendant', 'dodecahedron']
 completed_models = []
 
 
-print_models(unprinted_designs,completed_models)
+#use 'listname[:]' to make a copy
+print_models(unprinted_designs[:], completed_models)
 show_completed_models(completed_models)
+print(unprinted_designs)
