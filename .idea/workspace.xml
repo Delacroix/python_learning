@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29c6ec02-f7f7-472a-a561-4ec0f0642dcb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/dog.py" afterPath="$PROJECT_DIR$/class/dog.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -528,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507558603002</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="class Dog">
+      <created>1507724634605</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1507724634606</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -587,9 +593,9 @@
     <MESSAGE value="def_user_profile" />
     <MESSAGE value="def reference" />
     <MESSAGE value="try def final" />
-    <MESSAGE value="class Dog" />
     <MESSAGE value="class Dog again" />
-    <option name="LAST_COMMIT_MESSAGE" value="class Dog again" />
+    <MESSAGE value="class Dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="class Dog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
