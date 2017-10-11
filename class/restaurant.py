@@ -10,6 +10,15 @@ class Restaurant():
     def open_restaurant(self):
         print("\nThe restaurant is open!")
 
-restaurant = Restaurant('shancheng', 'hotpot')
+
+restaurant = Restaurant('xiaoyu', 'hotpot')
 restaurant.describe_restaurant()
 restaurant.open_restaurant()
+
+restaurant2 = Restaurant('laosichuan', 'chuan food')
+restaurant2.describe_restaurant()
+restaurant2.open_restaurant()
+
+restaurant3 = Restaurant('yanjingmian', 'noodles')
+restaurant3.describe_restaurant()
+restaurant3.open_restaurant()
