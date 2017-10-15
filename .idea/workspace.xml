@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c6ec02-f7f7-472a-a561-4ec0f0642dcb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/car.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/try_user_class.py" afterPath="$PROJECT_DIR$/class/try_user_class.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="try_user_class.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="try_user_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class/try_user_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="304">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="car.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class/car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -72,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/magician.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/4-1_fruit_for_circle.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/numbers.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/players.py" />
@@ -123,6 +132,7 @@
         <option value="$PROJECT_DIR$/class/dog.py" />
         <option value="$PROJECT_DIR$/class/restaurant.py" />
         <option value="$PROJECT_DIR$/class/try_user_class.py" />
+        <option value="$PROJECT_DIR$/class/car.py" />
       </list>
     </option>
   </component>
@@ -202,7 +212,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try_user_class">
+  <component name="RunManager" selected="Python.car">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="dog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,23 +243,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/dog.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="making_pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/making_pizza.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,19 +299,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.making_pizza" />
-      <item index="1" class="java.lang.String" itemvalue="Python.printing_fuctions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dog" />
-      <item index="3" class="java.lang.String" itemvalue="Python.restaurant" />
-      <item index="4" class="java.lang.String" itemvalue="Python.try_user_class" />
+      <item index="0" class="java.lang.String" itemvalue="Python.printing_fuctions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dog" />
+      <item index="2" class="java.lang.String" itemvalue="Python.restaurant" />
+      <item index="3" class="java.lang.String" itemvalue="Python.try_user_class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.car" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.try_user_class" />
-        <item index="1" class="java.lang.String" itemvalue="Python.restaurant" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dog" />
-        <item index="3" class="java.lang.String" itemvalue="Python.printing_fuctions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.making_pizza" />
+        <item index="0" class="java.lang.String" itemvalue="Python.car" />
+        <item index="1" class="java.lang.String" itemvalue="Python.try_user_class" />
+        <item index="2" class="java.lang.String" itemvalue="Python.restaurant" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dog" />
+        <item index="4" class="java.lang.String" itemvalue="Python.printing_fuctions" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507735794117</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="try user class">
+      <created>1508076875295</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1508076875295</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -557,7 +574,8 @@
     <MESSAGE value="class Dog" />
     <MESSAGE value="class restaurant" />
     <MESSAGE value="class restaurant2" />
-    <option name="LAST_COMMIT_MESSAGE" value="class restaurant2" />
+    <MESSAGE value="try user class" />
+    <option name="LAST_COMMIT_MESSAGE" value="try user class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -566,7 +584,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/magician.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/players.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/foods.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/dimension.py" />
@@ -751,8 +768,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/try_user_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="304">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
