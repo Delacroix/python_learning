@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c6ec02-f7f7-472a-a561-4ec0f0642dcb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/restaurant2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/Car4.py" afterPath="$PROJECT_DIR$/class/Car4.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +20,18 @@
       <file leaf-file-name="restaurant.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class/restaurant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="418">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restaurant2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class/restaurant2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -67,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Car4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class/Car4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="532">
+              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -112,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/foods.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/dimension.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/cars.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/toppings.py" />
@@ -163,6 +172,7 @@
         <option value="$PROJECT_DIR$/class/car2.py" />
         <option value="$PROJECT_DIR$/class/car3.py" />
         <option value="$PROJECT_DIR$/class/Car4.py" />
+        <option value="$PROJECT_DIR$/class/restaurant2.py" />
       </list>
     </option>
   </component>
@@ -242,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Car4">
+  <component name="RunManager" selected="Python.restaurant2">
     <configuration name="Car4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,7 +321,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="try_user_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="restaurant2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -323,25 +333,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/try_user_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/restaurant2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.try_user_class" />
-      <item index="1" class="java.lang.String" itemvalue="Python.car" />
-      <item index="2" class="java.lang.String" itemvalue="Python.car2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.car3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Car4" />
+      <item index="0" class="java.lang.String" itemvalue="Python.car" />
+      <item index="1" class="java.lang.String" itemvalue="Python.car2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.car3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Car4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.restaurant2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Car4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.car3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.car2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.car" />
-        <item index="4" class="java.lang.String" itemvalue="Python.try_user_class" />
+        <item index="0" class="java.lang.String" itemvalue="Python.restaurant2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Car4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.car3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.car2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.car" />
       </list>
     </recent_temporary>
   </component>
@@ -555,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508164247633</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="car4">
+      <created>1508164454231</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1508164454231</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -621,7 +638,8 @@
     <MESSAGE value="try user class" />
     <MESSAGE value="class car" />
     <MESSAGE value="car_class_1016" />
-    <option name="LAST_COMMIT_MESSAGE" value="car_class_1016" />
+    <MESSAGE value="car4" />
+    <option name="LAST_COMMIT_MESSAGE" value="car4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -630,7 +648,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/cars.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/toppings.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/boolen.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/conditional_test.py" />
@@ -793,14 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/restaurant.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/try_user_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -835,8 +844,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/Car4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="532">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/restaurant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/restaurant2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
           <folding />
         </state>
       </provider>
