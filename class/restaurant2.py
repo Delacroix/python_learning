@@ -11,20 +11,23 @@ class Restaurant():
     def open_restaurant(self):
         print("\nThe restaurant is open!")
 
-    def set_number_served(self):
+    def read_number(self):
+        print("\nThere are " + str(self.number_served) + " guests served.")
 
+    def set_number_served(self, set_number):
+        self.number_served = set_number
+
+    def increment_number_served(self, guest_increment):
+        self.number_served += guest_increment
 
 
 restaurant = Restaurant('xiaoyu', 'hotpot')
+restaurant.set_number_served(100)
+
 restaurant.describe_restaurant()
-restaurant.open_restaurant()
+restaurant.read_number()
+restaurant.increment_number_served(20)
+restaurant.describe_restaurant()
+restaurant.read_number()
 
-restaurant2 = Restaurant('laosichuan', 'chuan food')
-restaurant2.describe_restaurant()
-restaurant2.open_restaurant()
 
-restaurant3 = Restaurant('yanjingmian', 'noodles')
-restaurant3.describe_restaurant()
-restaurant3.open_restaurant()
-
-print(restaurant.number_served(100))
