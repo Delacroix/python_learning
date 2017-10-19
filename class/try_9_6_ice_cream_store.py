@@ -31,6 +31,7 @@ class IceCreamStand(Restaurant):
         for flavor in self.flavors:
             print(flavor.title())
 
+
 guest_greetings = IceCreamStand('candy', 'snack')
 guest_greetings.describe_restaurant()
 guest_greetings.open_restaurant()

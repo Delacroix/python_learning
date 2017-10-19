@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c6ec02-f7f7-472a-a561-4ec0f0642dcb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/try_9_6_ice_cream_store.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/try_9_7_admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/electric_car_2.py" afterPath="$PROJECT_DIR$/class/electric_car_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/try_9_6_ice_cream_store.py" afterPath="$PROJECT_DIR$/class/try_9_6_ice_cream_store.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,41 +20,41 @@
     <splitter split-orientation="horizontal" split-proportion="0.49157467">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="restaurant.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/restaurant.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="restaurant2.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/restaurant2.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="45" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="electric_car_2.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/electric_car_2.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="589">
-                  <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="try_9_6_ice_cream_store.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="try_9_6_ice_cream_store.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/class/try_9_6_ice_cream_store.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <state relative-caret-position="580">
+                  <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="try_9_7_admin.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/try_9_7_admin.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="513">
+                  <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="try_user_class2.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/try_user_class2.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="try_user_profile.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/try_user_profile.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -127,8 +127,8 @@
           <file leaf-file-name="electric_car_3.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/electric_car_3.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="513">
-                  <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+                <state relative-caret-position="81">
+                  <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
                   <folding />
                 </state>
               </provider>
@@ -151,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/amusement_park.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/top.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/if_elif_else.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/pizza.py" />
@@ -202,6 +201,7 @@
         <option value="$PROJECT_DIR$/class/electric_car_3.py" />
         <option value="$PROJECT_DIR$/class/electric_car_2.py" />
         <option value="$PROJECT_DIR$/class/try_9_6_ice_cream_store.py" />
+        <option value="$PROJECT_DIR$/class/try_9_7_admin.py" />
       </list>
     </option>
   </component>
@@ -281,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try_9_6_ice_cream_store">
+  <component name="RunManager" selected="Python.try_9_7_admin">
     <configuration name="electric_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +350,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="try_user_class2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="try_9_7_admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -362,25 +362,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/try_user_class2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/try_9_7_admin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.try_user_class2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.electric_car" />
-      <item index="2" class="java.lang.String" itemvalue="Python.electric_car_2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.electric_car_3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
+      <item index="0" class="java.lang.String" itemvalue="Python.electric_car" />
+      <item index="1" class="java.lang.String" itemvalue="Python.electric_car_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.electric_car_3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
+      <item index="4" class="java.lang.String" itemvalue="Python.try_9_7_admin" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
-        <item index="1" class="java.lang.String" itemvalue="Python.electric_car_3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.electric_car" />
-        <item index="3" class="java.lang.String" itemvalue="Python.electric_car_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.try_user_class2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.try_9_7_admin" />
+        <item index="1" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
+        <item index="2" class="java.lang.String" itemvalue="Python.electric_car_3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.electric_car" />
+        <item index="4" class="java.lang.String" itemvalue="Python.electric_car_2" />
       </list>
     </recent_temporary>
   </component>
@@ -650,7 +650,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508422978154</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="try_9_6_ice_cream_stand">
+      <created>1508424278381</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1508424278381</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -693,7 +700,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="try while" />
     <MESSAGE value="pets while" />
     <MESSAGE value="laptop" />
     <MESSAGE value="make_album" />
@@ -718,7 +724,8 @@
     <MESSAGE value="try_user_class2" />
     <MESSAGE value="electric_car_class" />
     <MESSAGE value="electric_car_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="electric_car_3" />
+    <MESSAGE value="try_9_6_ice_cream_stand" />
+    <option name="LAST_COMMIT_MESSAGE" value="try_9_6_ice_cream_stand" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,7 +734,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/parrot.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/greeter.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rollercoasters.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/counting.py" />
@@ -855,13 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try_user_profile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/printing_models_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -889,14 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/try_user_class2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1007,16 +998,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/electric_car_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="81">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/try_9_6_ice_cream_store.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="580">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_user_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/try_user_class2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/try_9_7_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
           <folding />
         </state>
       </provider>
