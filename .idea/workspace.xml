@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c6ec02-f7f7-472a-a561-4ec0f0642dcb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/electric_car_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/electric_car_3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/electric_car.py" afterPath="$PROJECT_DIR$/class/electric_car.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/electric_car_3.py" afterPath="$PROJECT_DIR$/class/electric_car_3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,8 +56,8 @@
           <file leaf-file-name="electric_car_3.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/electric_car_3.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+                <state relative-caret-position="551">
+                  <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -567,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508254023322</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="electric_car_3">
+      <created>1508422222223</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1508422222223</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView">
@@ -610,7 +615,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="try_7_2_2" />
     <MESSAGE value="try while" />
     <MESSAGE value="pets while" />
     <MESSAGE value="laptop" />
@@ -635,7 +639,8 @@
     <MESSAGE value="restaurant2" />
     <MESSAGE value="try_user_class2" />
     <MESSAGE value="electric_car_class" />
-    <option name="LAST_COMMIT_MESSAGE" value="electric_car_class" />
+    <MESSAGE value="electric_car_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="electric_car_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -889,8 +894,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/electric_car_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="551">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
