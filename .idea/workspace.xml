@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c6ec02-f7f7-472a-a561-4ec0f0642dcb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/try_9_7_admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/try_9_8_privilege.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/try_9_6_ice_cream_store.py" afterPath="$PROJECT_DIR$/class/try_9_6_ice_cream_store.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +29,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="try_9_7_admin.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="try_9_7_admin.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/class/try_9_7_admin.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="513">
-                  <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+                <state relative-caret-position="437">
+                  <caret line="23" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="try_9_8_privilege.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/try_9_8_privilege.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="646">
+                  <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -62,16 +71,6 @@
           </file>
           <file leaf-file-name="try_7_2_3_1_while.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/try_7_2_3_1_while.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="favorite_languages.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/favorite_languages.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -127,8 +126,8 @@
           <file leaf-file-name="electric_car_3.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/electric_car_3.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="81">
-                  <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+                <state relative-caret-position="575">
+                  <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -151,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/top.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/if_elif_else.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/pizza.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/parrot.py" />
@@ -202,6 +200,7 @@
         <option value="$PROJECT_DIR$/class/electric_car_2.py" />
         <option value="$PROJECT_DIR$/class/try_9_6_ice_cream_store.py" />
         <option value="$PROJECT_DIR$/class/try_9_7_admin.py" />
+        <option value="$PROJECT_DIR$/class/try_9_8_privilege.py" />
       </list>
     </option>
   </component>
@@ -281,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try_9_7_admin">
+  <component name="RunManager" selected="Python.try_9_8_privilege">
     <configuration name="electric_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,23 +294,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/electric_car.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="electric_car_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/electric_car_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,20 +349,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="try_9_8_privilege" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class/try_9_8_privilege.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.electric_car" />
-      <item index="1" class="java.lang.String" itemvalue="Python.electric_car_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.electric_car_3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
-      <item index="4" class="java.lang.String" itemvalue="Python.try_9_7_admin" />
+      <item index="1" class="java.lang.String" itemvalue="Python.electric_car_3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
+      <item index="3" class="java.lang.String" itemvalue="Python.try_9_7_admin" />
+      <item index="4" class="java.lang.String" itemvalue="Python.try_9_8_privilege" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.try_9_7_admin" />
-        <item index="1" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
-        <item index="2" class="java.lang.String" itemvalue="Python.electric_car_3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.electric_car" />
-        <item index="4" class="java.lang.String" itemvalue="Python.electric_car_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.try_9_8_privilege" />
+        <item index="1" class="java.lang.String" itemvalue="Python.try_9_7_admin" />
+        <item index="2" class="java.lang.String" itemvalue="Python.try_9_6_ice_cream_store" />
+        <item index="3" class="java.lang.String" itemvalue="Python.electric_car_3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.electric_car" />
       </list>
     </recent_temporary>
   </component>
@@ -657,7 +656,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508424278381</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="try_9_7_admin">
+      <created>1508425070789</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1508425070789</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView">
@@ -700,7 +706,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pets while" />
     <MESSAGE value="laptop" />
     <MESSAGE value="make_album" />
     <MESSAGE value="printing_model" />
@@ -725,7 +730,8 @@
     <MESSAGE value="electric_car_class" />
     <MESSAGE value="electric_car_3" />
     <MESSAGE value="try_9_6_ice_cream_stand" />
-    <option name="LAST_COMMIT_MESSAGE" value="try_9_6_ice_cream_stand" />
+    <MESSAGE value="try_9_7_admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="try_9_7_admin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -734,7 +740,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/greeter.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rollercoasters.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/counting.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/counting2.py" />
@@ -996,14 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/electric_car_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/try_9_6_ice_cream_store.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -1028,10 +1025,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/class/electric_car_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/class/try_9_7_admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="437">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/try_9_8_privilege.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
