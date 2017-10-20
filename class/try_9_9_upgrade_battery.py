@@ -37,6 +37,10 @@ class Battery():
         if self.battery_size != 85:
             self.battery_size = 85
 
+class test():
+    def __init__(self):
+        print("\nHello world!")
+
 
 class ElectricCar(Car):
     def __init__(self, make, model, year):
@@ -52,3 +56,4 @@ my_tesla.battery.get_range()
 my_tesla.battery.upgrade_battery()
 my_tesla.battery.describe_battery()
 my_tesla.battery.get_range()
+test()
