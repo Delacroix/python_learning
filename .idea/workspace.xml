@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c6ec02-f7f7-472a-a561-4ec0f0642dcb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_10_file_and_exceptions/10.4_data_storage/greet_user.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_10_file_and_exceptions/10.4_data_storage/number_reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_10_file_and_exceptions/10.4_data_storage/number_writer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_10_file_and_exceptions/10.4_data_storage/remember_me.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_10_file_and_exceptions/10.4_data_storage/remember_me_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_10_file_and_exceptions/10.4_data_storage/remember_me_re_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter_10_file_and_exceptions/10.4_data_storage/remember_me_restruct.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -705,7 +698,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509543165206</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="10.4_data_storage">
+      <created>1509547505812</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1509547505812</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TodoView">
@@ -771,7 +771,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="copy the list" />
     <MESSAGE value="show_magician" />
     <MESSAGE value="show_magician no_change_init" />
     <MESSAGE value="make_pizza" />
@@ -796,7 +795,8 @@
     <MESSAGE value="10.2_write_data_to_file" />
     <MESSAGE value="10.3_exception" />
     <MESSAGE value="10.3_exception_finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.3_exception_finished" />
+    <MESSAGE value="10.4_data_storage" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.4_data_storage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
