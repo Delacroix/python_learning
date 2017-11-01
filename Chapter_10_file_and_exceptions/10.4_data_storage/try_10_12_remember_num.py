@@ -19,12 +19,13 @@ def get_new_num():
         json.dump(num, f_obj)
     return num
 
+
 def tell_user():
     num = get_stored_number()
     if num:
         print("Your favorite number was " + num + ", am I right?")
     else:
-        num = get_stored_number()
-        print("You can tell me your favorite number!")
+        num = get_new_num()
+        print("I remembered your favorite number is " + num + ", come back and check!")
 
 tell_user()

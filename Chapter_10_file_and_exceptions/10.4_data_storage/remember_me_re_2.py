@@ -1,5 +1,6 @@
 import json
 
+
 def get_stored_username():
     '''If username was stored, then fetch it.'''
     filename = 'username.json'
@@ -10,6 +11,7 @@ def get_stored_username():
         return None
     else:
         return username
+
 
 def greet_user():
     '''Greet user, and point out the name'''

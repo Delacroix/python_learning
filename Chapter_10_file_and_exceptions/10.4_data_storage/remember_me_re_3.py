@@ -14,7 +14,7 @@ def get_stored_username():
 
 
 def get_new_username():
-    username = raw_input("What is your name? ")
+    username = raw_input("You haven't registered yet, what is your name? ")
     filename = 'username.json'
     with open(filename, 'w') as f_obj:
         json.dump(username, f_obj)
@@ -22,8 +22,10 @@ def get_new_username():
 
 
 def greet_user():
-    username = get_stored_username()
-    if username:
+    """Edited for try_10_13_user_check"""
+    username = raw_input("Please input your username: \n")
+
+    if username == get_stored_username():
         print("Welcome back, " + username + "!")
     else:
         username = get_new_username()
