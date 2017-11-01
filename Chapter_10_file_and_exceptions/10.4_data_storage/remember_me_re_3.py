@@ -24,7 +24,8 @@ def get_new_username():
 def greet_user():
     """Edited for try_10_13_user_check"""
     username = raw_input("Please input your username: \n")
-
+    # username = get_stored_username()
+    # if username:
     if username == get_stored_username():
         print("Welcome back, " + username + "!")
     else:
