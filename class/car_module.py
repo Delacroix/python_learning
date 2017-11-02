@@ -7,11 +7,17 @@ class Car(object):
 
     def get_descriptive_name(self):
         long_name = str(self.year) + ' ' + self.make + ' ' + self.model
-        return long_name
+        return long_name.title()
 
-    def update_odometer(self):
+    def read_odometer(self):
         print("This car has " + str(self.odometer_reading) + " miles on it.")
 
+    def update_odometer(self, mileage):
+        if mileage >= self.odometer_reading:
+            self.odometer_reading = mileage
+        else:
+            print("You can't roll back an odometer!")
+##test
     def increment_odometer(self, miles):
         self.odometer_reading += miles
 
@@ -33,27 +39,8 @@ class Battery():
         message += " miles on a full charge."
         print(message)
 
-    def upgrade_battery(self):
-        if self.battery_size != 85:
-            self.battery_size = 85
-
-class test():
-    def __init__(self):
-        print("\nHello world!")
-
 
 class ElectricCar(Car):
     def __init__(self, make, model, year):
         super(ElectricCar, self).__init__(make, model, year)
         self.battery = Battery()
-
-
-my_tesla = ElectricCar('tesla', 'model s', 2016)
-
-print(my_tesla.get_descriptive_name())
-my_tesla.battery.describe_battery()
-my_tesla.battery.get_range()
-my_tesla.battery.upgrade_battery()
-my_tesla.battery.describe_battery()
-my_tesla.battery.get_range()
-test()
